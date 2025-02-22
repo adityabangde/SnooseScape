@@ -1,0 +1,6 @@
+../Core/Src/buzzer.c:71:6:buzzer_init	8	static
+../Core/Src/buzzer.c:76:6:start_mario_melody	8	static
+../Core/Src/buzzer.c:86:6:start_mario_death	8	static
+../Core/Src/buzzer.c:96:9:is_melody_playing	4	static
+../Core/Src/buzzer.c:101:6:play_note	24	static
+../Core/Src/buzzer.c:115:6:update_mario_melody	24	static

@@ -1,0 +1,6 @@
+../Core/Src/ds3231.c:17:6:Debug_Print	16	static
+../Core/Src/ds3231.c:23:9:decToBcd	16	static
+../Core/Src/ds3231.c:29:5:bcdToDec	16	static
+../Core/Src/ds3231.c:34:6:Set_Time	48	static
+../Core/Src/ds3231.c:55:6:Set_init_time	112	static
+../Core/Src/ds3231.c:83:6:Get_Time	32	static
